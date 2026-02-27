@@ -40,7 +40,7 @@ layout: null
 </head>
 <body>
   <div class="container">
-    <h1>Welcome to Mike Mayer's Site</h1>
+    <h1>Welcome to Michael Mayer's Site</h1>
     <p>Portfolio & Projects</p>
     <p>Coming Soon!</p>
   </div>
