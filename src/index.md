@@ -17,7 +17,7 @@ layout: null
     }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      background: white;
       min-height: 100vh;
       display: flex;
       align-items: center;
@@ -25,12 +25,12 @@ layout: null
     }
     .container {
       text-align: center;
-      color: white;
+      color: black;
     }
     h1 {
       font-size: 3.5rem;
       margin-bottom: 1rem;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+      /* removed text-shadow for clarity */
     }
     p {
       font-size: 1.25rem;
